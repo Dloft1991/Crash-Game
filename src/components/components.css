@@ -1,0 +1,26 @@
+
+.nav {
+    max-height: 420px;
+}
+.navbar{
+    min-height: 80px;
+    font-size: 30px;
+    
+}
+
+img {
+    width: 180px;
+    height: 180px;
+}
+
+.square {
+    margin: 5px;
+    background-color: white;
+    border: 5px solid rgb(179, 64, 179);
+    border-radius: 5px;
+    
+}
+
+.scorebar{
+background-color: rgb(179, 64, 179);
+}
