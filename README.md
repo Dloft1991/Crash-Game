@@ -1,6 +1,6 @@
-# Crash-game
+# Clicky Crash-game
 
-The Clicky Game is a challenge game to test your memory. If you can remember which tiles you have previously clicked and not click any of the tiles more than once, you can be a winner. 
+The Clicky Crash Game is a challenge game to test your memory. If you can remember which tiles you have previously clicked and not click any of the tiles more than once, you can be a winner. 
 
 This game was created using React. 
 About React: https://reactjs.org/
