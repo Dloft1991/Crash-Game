@@ -6,6 +6,6 @@ This game was created using React.
 About React: https://reactjs.org/
 
 Play the game Here!
-link: https://dloft1991.github.io/Clicky-game/
+link: https://dloft1991.github.io/Crash-Game/
 
     
